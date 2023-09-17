@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: learning!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanAthompson&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanAthompson&show_icons=true&theme=onedark)
