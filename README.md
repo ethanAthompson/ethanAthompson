@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/ethanAthompson/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanAthompson&hide_progress=true" />
 </a>
