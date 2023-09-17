@@ -8,10 +8,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: learning!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ethanAthompson/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanAthompson&show_icons=true&theme=onedark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethanAthompson&show_icons=true&theme=onedark" />
+<a href="https://github.com/ethanAthompson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
 </a>
