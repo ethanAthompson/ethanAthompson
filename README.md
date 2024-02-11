@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a space game and comptia
+- 🔭 I’m currently working on a cosmic calendar and comptia
 - 🌱 I’m currently learning certifications and learning on the journey
 - 👯 I’m looking to collaborate on getting a job
 - 🤔 I’m looking for help with interviewing
